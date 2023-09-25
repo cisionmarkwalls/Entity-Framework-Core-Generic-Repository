@@ -6,6 +6,7 @@
 Offering you a complete abstraction of the UnitOfWork-Pattern & Repository pattern with the basic CRUD-Operations, the Repository Pattern and extended functions like CustomRepositores all in one small lib. Made for the Entity Framework Core.
 
 See the Sample-Project how this works.
+Testing release notes
 
 ## Installation
 
